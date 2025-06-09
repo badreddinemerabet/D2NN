@@ -101,3 +101,4 @@ The implementation includes various reconfigurable scenarios from the paper:
 ## Reference
 
 Wei Jia, Dajun Lin, and Berardi Sensale-Rodriguez. "Machine Learning Enables Multi-Degree-of-Freedom Reconfigurable Terahertz Holograms with Cascaded Diffractive Optical Elements." Advanced Optical Materials, 2023.
+
